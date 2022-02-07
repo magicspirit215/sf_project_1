@@ -52,6 +52,7 @@
 
 
 ### Результаты:  
+https://github.com/magicspirit215/sf_project_1/blob/main/Project_1.ipynb
 ....
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
