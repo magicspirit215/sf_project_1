@@ -40,7 +40,7 @@
 
 
 ### Краткая информация о данных
-....
+[датасет](https://cloud.mail.ru/public/nbot/5TxRnfncL)
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
